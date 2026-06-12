@@ -1,0 +1,7 @@
+{
+  "name": "SkillAuth™ Platform",
+  "description": "Enterprise-grade Adaptive Capability Verification Framework (ACVF) frontend prototype.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
